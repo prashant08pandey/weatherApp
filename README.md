@@ -1,0 +1,1 @@
+A simple weather forcast app using Angular 5, Angular Material and Charts
